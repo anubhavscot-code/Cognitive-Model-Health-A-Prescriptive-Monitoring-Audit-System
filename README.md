@@ -5,8 +5,6 @@ Prescriptive Reasoning Engine: The system goes beyond reporting "what" happened;
 
 Leading-Indicator Drift Detection: By tracking feature-level distribution shifts (Data Drift), the system predicts future performance drops before they impact the business bottom line.
 
-Temporal Integrity Audit: Identifies "Environmental Aging" by monitoring the drift of time-based features (like TransactionDT), signaling when a model has become a "temporal stranger" to its current data stream.
-
 Chaos-Mode Stress Testing: Includes a synthetic noise injection engine to validate the robustness of the monitoring triggers and simulate adversarial data environments.
 echnical Architecture
 
